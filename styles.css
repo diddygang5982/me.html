@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 1.8em;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+p {
+    margin: 10px 0;
+}
+
+.preferred-name {
+    font-size: 1.2em;
+    color: #555;
+}
+
+a {
+    color: #0077cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.photo-container {
+    margin: 20px auto;
+    text-align: center;
+}
+
+.profile-photo {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+    border: 3px solid #0077cc;
+}
+
+ul {
+    list-style-type: square; /* Changed to square icons */
+    text-align: left;
+    display: inline-block;
+    margin: 10px 0;
+    padding-left: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
